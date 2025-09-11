@@ -10,11 +10,11 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background smooth-scroll">
       <Hero />
-      <About />
       <Skills />
       <Projects />
       <Experience />
       {/* <Testimonials /> */}
+      <About />
       <Contact />
     </div>
   );

@@ -26,7 +26,7 @@ const Skills = () => {
     {
       icon: Settings,
       title: "Tools",
-      skills: ["Git", "Github"]
+      skills: ["Git", "Github", "Postman"]
     },
     {
       icon: Layers,
