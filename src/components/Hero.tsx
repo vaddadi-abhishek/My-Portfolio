@@ -48,7 +48,7 @@ const Hero = () => {
         </h1>
         
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl leading-relaxed mx-auto">
-          Crafting intelligent experiences with code, design, and creativity.
+          Crafting best experiences with code, design, and creativity.
         </p>
         
         <Button 
