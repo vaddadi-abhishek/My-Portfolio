@@ -20,7 +20,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <section className="min-h-screen flex items-center justify-center section-container relative overflow-hidden">
+    <section className="min-h-screen flex items-center justify-center relative overflow-hidden">
       {/* Interactive Background */}
       <div className="absolute inset-0 pointer-events-none">
         <div 
@@ -39,7 +39,7 @@ const Hero = () => {
         />
       </div>
 
-      <div className="text-center space-y-8 animate-fade-in relative z-10">
+      <div className="text-center space-y-8 animate-fade-in relative z-10 section-container">
         <h1 className="hero-title text-foreground">
           Abhishek V
           <span className="block text-muted-foreground text-2xl md:text-3xl lg:text-4xl font-normal mt-4">
