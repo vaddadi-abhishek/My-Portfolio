@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://github.com/vaddadi-abhishek
+**URL**: [https://github.com/vaddadi-abhishek](https://vaddadi-abhishek.github.io/My-Portfolio/)
 
 ## How can I edit this code?
 
